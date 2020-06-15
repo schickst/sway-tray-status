@@ -3,9 +3,10 @@
 This is a helper program to show basic information in swaybar. See [Sway](https://github.com/swaywm/sway) a Wayland Compositor similar to i3 for more information.
 
 The Information shown includes:
-	- Battery Name
-	- Battery level in percent
-	- Daten and time
+
+- Battery Name
+- Battery level in percent
+- Daten and time
 
 ## Configuration
 
