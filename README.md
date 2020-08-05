@@ -6,7 +6,7 @@ The Information shown includes:
 
 - Battery Name
 - Battery level in percent
-- Daten and time
+- Date and time
 
 ## Configuration
 
